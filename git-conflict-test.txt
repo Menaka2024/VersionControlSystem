@@ -1,2 +1,5 @@
-Hi mate
-this is to learn about github.....
+Hi  mate!!!
+Welcome to learn about Github
+This is a test line for conflict:  main branch
+Hi mate this is test!!!
+The testing 
