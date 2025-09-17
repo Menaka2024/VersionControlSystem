@@ -1,3 +1,4 @@
+HEAD
 Hi mate
 this is to learn about github.....
 
@@ -5,3 +6,10 @@ this is to learn about github.....
 Hi mate this is from main branch
 Have added new modifications
 
+
+Hi  mate!!!
+Welcome to learn about Github
+This is a test line for conflict:  main branch
+Hi mate this is test!!!
+The testing 
+test
